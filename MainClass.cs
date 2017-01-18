@@ -4,7 +4,7 @@ namespace InterviewTests.ParenthesesBalancing
     {
         public static bool Balanced(string input)
         {
-            return false;
+            return true;
         }
     }
 }
